@@ -1,0 +1,6 @@
+dist
+node_modules
+config
+output*.json
+.idea
+src/*.js
